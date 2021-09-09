@@ -1,6 +1,10 @@
 # music_app
 
-A new Flutter application.
+Music App
+
+# Logo
+
+<img src="https://user-images.githubusercontent.com/73787635/132738948-16e58d10-8ef6-4d42-a589-dc325ea33be0.jpg" height = 490, width = 290/>
 
 ## Getting Started
 
